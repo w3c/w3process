@@ -2806,9 +2806,18 @@ Advisory Committee Override</h3>
 	and “Abstain”,
 	together with Comments.
 
-	If the number of votes to approve
-	exceeds the number of votes to reject,
-	the proposal is approved.
+	The level of support needed for a [=Advisory Committee Override=] to pass
+	depends on the level of participation by [=Advisory Committee Representatives=],
+	(including those who cast an explicit “abstain” ballot):
+	* if no more than 15%,
+		the vote passes
+		if the number of “Approve” ballots exceeds three times the number of “Reject” ballots.
+	* if more than 15% but less than 20%,
+		the vote passes
+		if the number of “Approve” ballots exceeds twice the number of “Reject” ballots.
+	* if 20% or more,
+		the vote passes
+		if the number of “Approve” ballots exceeds the number of “Reject” ballots.
 
 	Otherwise, the proposal is rejected.
 
