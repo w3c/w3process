@@ -4657,7 +4657,7 @@ Publishing Registries</h4>
 			<dfn export>Obsolete Registry</dfn> and <dfn export>Superseded Registry</dfn>.
 
 		<li>
-			Changes that add new features (i.e. [[#correction-classes|class 4 changes]]) are allowed
+			Changes that add new features (i.e., [[#correction-classes|class 4 changes]]) are allowed
 			in all [=W3C Registries=],
 			without needing the to explicitly indicate that this is allowed.
 	</ul>
